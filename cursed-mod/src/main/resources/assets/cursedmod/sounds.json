@@ -1,0 +1,44 @@
+{
+    "screamer": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "cursedmod:screamer",
+                "stream": true
+            }
+        ]
+    },
+    "glitch1": {
+        "category": "master",
+        "sounds": ["cursedmod:glitch1"]
+    },
+    "glitch2": {
+        "category": "master",
+        "sounds": ["cursedmod:glitch2"]
+    },
+    "creepy_ambient": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "cursedmod:creepy_ambient",
+                "stream": true
+            }
+        ]
+    },
+    "static": {
+        "category": "master",
+        "sounds": ["cursedmod:static"]
+    },
+    "whisper": {
+        "category": "master",
+        "sounds": ["cursedmod:whisper"]
+    },
+    "heartbeat": {
+        "category": "master",
+        "sounds": ["cursedmod:heartbeat"]
+    },
+    "distorted": {
+        "category": "master",
+        "sounds": ["cursedmod:distorted"]
+    }
+}
